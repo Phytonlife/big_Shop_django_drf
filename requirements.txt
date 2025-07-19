@@ -1,0 +1,7 @@
+django
+djangorestframework
+psycopg2-binary
+redis
+celery
+django-environ
+social-auth-app-django
